@@ -1,0 +1,22 @@
+h1{	
+	text-align: center;
+	border: 1px solid black;
+}
+
+.table-option{
+	margin: auto auto;
+}
+
+.table-borderline{
+	margin: auto auto;
+	border: 1px solid black;
+	text-align: center;
+}
+
+td{
+	border: 1px solid black;
+}
+
+body{
+	font-size: 20px;
+}
